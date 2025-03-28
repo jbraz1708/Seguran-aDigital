@@ -67,6 +67,3 @@ Este repositório será constantemente atualizado com novas descobertas, soluç�
 ---
 
 > "A segurança da informação não é um produto, mas um processo contínuo." - Bruce Schneier
-
-📚 **Licença**: MIT License  |  🔗 **Contato**: [seu-email@athena.com](mailto:seu-email@athena.com)
-
